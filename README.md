@@ -3,7 +3,7 @@
 <img width="100%" alt="Marvin Dookharan - Senior Software Engineer" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:4338ca,100:22d3ee&height=190&section=header&text=Marvin%20Dookharan&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%20Evaluation%20Infrastructure&descAlignY=60&descSize=15"/>
 
 <a href="https://git.io/typing-svg">
-  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=I+build+the+checks+that+decide+if+an+agent+fixed+it;Reproducible+environments%2C+so+broken+setups+aren't+failures;Verifiers+that+accept+many+correct+fixes%2C+reject+hardcoded+ones;AI+Evaluation+%7C+Backend+Platforms+%7C+Developer+Tooling"/>
+  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=I+build+the+checks+that+decide+if+an+agent+fixed+it;Reproducible+environments%2C+so+broken+setups+aren't+failures;Verifiers+that+accept+many+correct+fixes%2C+reject+hardcoded+ones;AI+Evaluation+%7C+Backend+Platforms+%7C+Developer+Tooling"/>
 </a>
 
 <br/><br/>
