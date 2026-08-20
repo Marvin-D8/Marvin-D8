@@ -104,53 +104,6 @@ These days I work on **coding agent evaluation**: repository-level benchmarks, r
 
 ---
 
-## 💼 Impact highlights
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Verifiers that don't overfit
-
-**Turing · coding agent benchmarks**
-
-Acceptance checks in Pytest and Jest designed to pass *multiple* correct fixes while rejecting incomplete or hardcoded patches — the difference between measuring a repair and measuring a guess.
-
-</td>
-<td width="50%" valign="top">
-
-### 🐳 Environments that fail honestly
-
-**Turing · evaluation infrastructure**
-
-Docker and Linux setups with pinned dependencies, migrations, seed data, and clean resets, so a broken environment is never scored as a model failure.
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 📊 Ingestion that survives bad input
-
-**Arize AI · model reliability**
-
-Multitenant event ingestion on FastAPI, Kafka, Redis, and Kubernetes. Permanent poison messages moved to dead-letter replay instead of blocking other tenants.
-
-</td>
-<td valign="top">
-
-### 🔗 Graders that agree with humans
-
-**Arize AI · evaluation platform**
-
-When model-based graders diverged from human labels, stabilized scoring with versioned judge prompts, dual review paths, and Pytest coverage for the uncertain cases.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 Selected work
 
 **🧩 Agent Evaluation Environment** · *Turing · 2026 – present*
