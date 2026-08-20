@@ -185,7 +185,7 @@ Happy to talk **agent evaluation**, **backend platform design**, or **how teams 
 
 <br/><br/>
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=marvindookharan&label=%F0%9F%91%80%20Profile%20views&color=4338ca&style=flat-square"/>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Marvin-D8&label=%F0%9F%91%80%20Profile%20views&color=4338ca&style=flat-square"/>
 
 </div>
 
@@ -194,9 +194,9 @@ Happy to talk **agent evaluation**, **backend platform design**, or **how teams 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marvindookharan/marvindookharan/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marvindookharan/marvindookharan/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/marvindookharan/marvindookharan/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marvin-D8/Marvin-D8/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marvin-D8/Marvin-D8/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Marvin-D8/Marvin-D8/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
